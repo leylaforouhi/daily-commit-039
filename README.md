@@ -1,4 +1,4 @@
-def remove_spaces(text):
+def remove_spaces(tex):
     return text.replace(" ", "")
 
 if __name__ == "__main__":
